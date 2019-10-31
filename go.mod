@@ -1,4 +1,4 @@
-module appleapi
+module github.com/gamebtc/appleapi
 
 require (
 	github.com/gbrlsnchs/jwt/v3 v3.0.0-rc.1
